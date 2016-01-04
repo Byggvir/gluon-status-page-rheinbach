@@ -1,0 +1,14 @@
+/*
+ * Styles für die Status-Seite 
+ * 
+ */
+
+.banner { 
+  border: 0.1em solid #000080; 
+  border-radius: 1em; box-shadow: 0.2em 0.2em 0.1em #2020A0; 
+  width: 30em; 
+  padding-top: 2em; 
+  padding-bottom: 2em; 
+  padding-left: 5em; 
+  padding-right: 5em;
+}
