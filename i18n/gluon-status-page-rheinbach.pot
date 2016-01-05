@@ -5,11 +5,14 @@ msgid "Homepage info"
 msgstr ""
 
 msgid ""
-"You can provide your homepage address here to "
+"You can provide your name and homepage here to "
 "allow a link on the status page. Please note that "
 "this information will be visible <em>publicly</em> "
 "on the internet together with your node\'s coordinates."
 msgstr ""
 
-msgid "Address of your homepage (http://example.com/freifunk)"
+msgid "Owner' name (e.g. Jane Doe)"
+msgstr ""
+
+msgid "Owner's homepage (e.g. http://example.com)"
 msgstr ""

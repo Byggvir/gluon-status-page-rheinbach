@@ -3,12 +3,46 @@
  * 
  */
 
-.banner { 
+.vcard { 
   border: 0.1em solid #000080; 
   border-radius: 1em; box-shadow: 0.2em 0.2em 0.1em #2020A0; 
-  width: 30em; 
+  width: 800px; 
   padding-top: 2em; 
   padding-bottom: 2em; 
   padding-left: 5em; 
   padding-right: 5em;
+}
+.vcard-community { 
+  border: 0.1em solid #008080; 
+  border-radius: 1em; box-shadow: 0.2em 0.2em 0.1em #20A0A0; 
+  padding-top: 1em; 
+  padding-bottom: 1em; 
+  padding-left: 2em; 
+  padding-right: 2em;
+}
+.vcard-head { 
+  font-size: 5em;
+  text-align: center;
+  font-weight: bold;
+  text-shadow: 2px 2px #a0a0a0;
+}
+
+.vcard-router-name { 
+  font-size: 2em;
+  text-align: center;
+  font-weight: bold;
+}
+
+.vcard-router-owner { 
+  font-size: 4em;
+  text-align: center;
+  font-weight: bold;
+  margin-top : 0.5em;
+  margin-bottom: 0.5em; 
+}
+
+.vcard-router-status { 
+  font-size: 1em;
+  text-align: right;
+  font-weight: bold;
 }
